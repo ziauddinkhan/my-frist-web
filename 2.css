@@ -1,0 +1,77 @@
+ *{
+    outline:none;
+ }
+ body{
+background-color:red;
+color:white;
+display:flex;
+align-items:center;
+justify-content:center;
+margin-top:40px;
+}
+.full-body{
+    width:1000px;
+    height:700px;
+    background-image: linear-gradient(to right,
+    rgb(198, 1, 1),rgb(222, 0, 192) ,rgb(167, 5, 172)
+    )}
+    .text{
+        font-size:30px;
+        margin-left:50px;
+    }
+    .conten-text{ 
+        margin-left:40px;
+        color:white;
+        text-decoration:none;
+        
+    }
+    .khankhan{
+        display:flex;
+        align-items:center;
+        margin-top:40px;
+    }
+    .content-head{
+        margin-left:250px;
+    
+        display: flex;
+    
+    }
+    .center-element{
+        font-size: 50px;
+        font-weight: 900;
+        display:flex;
+        align-items: center;
+        justify-content:center;
+        margin-top:200px
+    }
+    .text-2{
+        display:flex;
+        justify-content:center;
+        margin-top: 15px;
+    }
+    .video-play{
+        display:flex;
+        justify-content:center;
+        margin-top:15px;
+        color:white;
+    }
+    #icon{
+        color:white;
+    }
+    .footer{
+        display: flex;
+        align-items:center;
+        justify-content:center;
+        color:black;
+        height:150px;
+        background-color:white;
+        font-size:25px;
+        margin-top:150px;
+    }
+    span{
+
+        color:red
+    }
+
+
+    
